@@ -96,6 +96,7 @@
 - **particle mod** : with all particles from optifine, multiplier, color and always sharpness
 - **potion hud** : fancy style with circle for time arround the potion icon, hide potion name
 - **Scoreboard** : hide numbers, hide background, modern font, blur, radius, text shadow if font is vanilla, custom position
+- **Sound Subtitles**
 - **Tab mod** : custom position with custom size, background, modern font, text shadow if font is vanilla
 - **Target HUD** : option to show armor and health as a number or a circle
 - **TNT Timer** : tag will use the same style as nametag
