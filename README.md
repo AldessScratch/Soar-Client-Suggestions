@@ -16,6 +16,7 @@
 
 - material UI button everywhere
 - better loading screen
+- when soar fail to connect to mojang server and refresh account make a popup telling the user that and a button to retry
 
 ### ClickGUI :
 
