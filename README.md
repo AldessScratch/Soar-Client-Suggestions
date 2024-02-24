@@ -42,12 +42,11 @@
 - Soar cape dark and light
 - Wings
 
-
 ### Settings :
 
 - **fps settings** : hide foliage, hide enchant glint, hide stuck arrows, hide skulls, hide end portals, hide entity shadow, optimized world loading
 - **appearance** : vanilla/modern font, background opacity, hide shadow, text shadow if font is vanilla
-- **languages**
+- **languages** : translation with community translations
 - **client branding in inventory** : top, bottom left or right
 
 ### Profiles :
