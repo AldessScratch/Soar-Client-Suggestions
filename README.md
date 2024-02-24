@@ -92,7 +92,7 @@
 - **minimap** : ability to switch to a circle
 - **Minimal view bobbing** : hand bob intensity, cam bob intensity
 - **Mouse stroke**
-- **Nametag** : modern font, text shadow if font is vanilla, background, radius, visibility distance, hide far nametags if theres a lot of nametags
+- **Nametag** : modern font, text shadow if font is vanilla, background, radius, visibility distance, hide far nametags if theres a lot of nametags, soar logo
 - **particle mod** : with all particles from optifine, multiplier, color and always sharpness
 - **potion hud** : fancy style with circle for time arround the potion icon, hide potion name
 - **Scoreboard** : hide numbers, hide background, modern font, blur, radius, text shadow if font is vanilla, custom position
