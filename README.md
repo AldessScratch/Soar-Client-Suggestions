@@ -17,6 +17,7 @@
 - material UI button everywhere
 - better loading screen
 - when soar fail to connect to mojang server and refresh account make a popup telling the user that and a button to retry
+- add credit for mods like mo bends and godbridge assist
 
 ### ClickGUI :
 
@@ -89,6 +90,7 @@
 - **minemen mods** : autoqueue
 - **minimap** : ability to switch to a circle
 - **Minimal view bobbing** : hand bob intensity, cam bob intensity
+- **Mo bends**
 - **Mouse stroke**
 - **Nametag** : modern font, text shadow if font is vanilla, background, radius, visibility distance, hide far nametags if theres a lot of nametags, soar logo
 - **particle mod** : with all particles from optifine, multiplier, color and always sharpness
