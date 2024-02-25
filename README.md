@@ -108,4 +108,5 @@
 - searchbar is not working in settings section
 - cosmetics showing on every player
 - cosmetics not saving
+- sky reload bug
 
