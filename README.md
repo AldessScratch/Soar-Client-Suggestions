@@ -29,9 +29,6 @@
 - Reset size button for each mod
 - Size slider for each mod
 - Color HEX code for mods that have custom color
-- custom text color for all mods
-- chroma text color
-- recent color system
 
 ### Mod moving GUI :
 
